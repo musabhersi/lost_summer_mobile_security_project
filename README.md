@@ -3,6 +3,8 @@
 - [General info](#General-info)
 - [Course Prereqs](#Course-Prereqs)
 - [Agenda](#Agenda)
+    - [Delivery Format:](#Delivery-Format)
+    - [Weekly Agenda:](#Weekly-Agenda)
 - [Project Setup](#Project-Setup)
 - [Technologies](#Technologies)
 
@@ -28,19 +30,24 @@ This project is expected to take 4 week approx.
 -  The ability to join a Google meeting via an application or a browser 
 -  A laptop or desktop computing machine with the following      software installed.
      - Git: download from [here]("https://git-scm.com/downloads") 
-     - Integrated development Environment (IDE) **Luban**
-     - **Luban**
+     - Integrated development Environment (IDE) **Liban**
+     
 - An account on Github.com sign up [here]("https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home")
 - A sense of humor and a willingness to learn, this will be educational and technically challenging but also fun :).
 
 
 ## Agenda
 
-Weekly Agenda:
+#### Delivery Format:
 
-| Week  	| Topics 	| Mentor 	| Pre-reading for students  	|  	|
+Class will meet with Mentors on Monday and Thursday @ 11 for 1 hour. During this time Mentors will discuss the project and the weeks tasks.  
+
+
+#### Weekly Agenda:
+
+| Week  	| Topics 	| Mentor 	| Pre-reading for students  	| Tasks for Week 	|
 |:-:	|-	|-	|:-:	|-	|
-| Week 1  	| - What is SDL <br>- The importance of secure development<br>- What will we will on this course<br>- What technology and tools we will use<br>- How you should prepare<br>- How you can contact Mentors for help<br>   	| Kevin Cornally 	| - Github: https://www.youtube.com/watch?v=SWYqp7iY_Tc<br>- Github: https://rogerdudler.github.io/git-guide/<br>- Github: https://www.freecodecamp.org/news/an-introduction-to-git-for-absolute-beginners-86fa1d32ff71/<br>- Github Actions: https://lab.github.com/githubtraining/github-actions:-continuous-integration<br>- Github Actions: https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/ 	|  	|
+| Week 1  	| - What is SDL <br>- The importance of secure development<br>- What will we will on this course<br>- What technology and tools we will use<br>- How you should prepare<br>- How you can contact Mentors for help<br>   	| Kevin Cornally / Liban Mohamud	| - Github: https://www.youtube.com/watch?v=SWYqp7iY_Tc<br>- Github: https://rogerdudler.github.io/git-guide/<br>- Github: https://www.freecodecamp.org/news/an-introduction-to-git-for-absolute-beginners-86fa1d32ff71/<br>- Github Actions: https://lab.github.com/githubtraining/github-actions:-continuous-integration<br>- Github Actions: https://www.freecodecamp.org/news/what-are-github-actions-and-how-can-you-automate-tests-and-slack-notifications/ 	| - Create a local git project name hello_world<br>- Understand Github authentication mechanisms<br>- Create a file, commit it and push to remote  hello_world repo<br>- Clone this repo.<br>- Push this repo back to your own github account<br>- Supply your repo details to the Mentors for review. 	|
 | Week 2 	|  	|  	|  	|  	|
 | Week 3 	|  	|  	|  	|  	|
 | Week 4 	|  	|  	|  	|  	|
