@@ -8,6 +8,7 @@
     - [Weekly Agenda](#Weekly-Agenda)
 - [Project Setup](#Project-Setup)
 - [Technologies](#Technologies)
+    - [Link](#Link)
 
 ## General info
 The financial and logistical impact of COVID mean there are fewer internships available this year, and some companies have even had to withdraw earlier offers. The impact of this “lost summer” will be significant: those missing out in 2020 will be at a serious disadvantage when they enter the market. The harm could last years, since their CVs will be weaker, their networks smaller, their skills less sharp.
@@ -68,3 +69,9 @@ Project is focused with:
 * Github Actions - CI
 * Kotlin - Applcation Software
 * MobSF:  SAST / DAST / FUZZ
+
+#### Link
+
+- https://samsclass.info/
+- https://github.com/dineshshetty/Android-InsecureBankv2
+- https://owaspsamm.org/model/
