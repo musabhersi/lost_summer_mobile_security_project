@@ -1,12 +1,10 @@
 ## Table of contents
-- [Table of contents](#Table-of-contents)
-- [General info](#General-info)
-- [Course Prereqs](#Course-Prereqs)
-- [Agenda](#Agenda)
-    - [Delivery Format:](#Delivery-Format)
-    - [Weekly Agenda:](#Weekly-Agenda)
-- [Project Setup](#Project-Setup)
-- [Technologies](#Technologies)
+- [<<<<<<< HEAD](#HEAD)
+  - [Agenda](#Agenda)
+      - [Delivery Format:](#Delivery-Format)
+      - [Weekly Agenda:](#Weekly-Agenda)
+  - [Project Setup](#Project-Setup)
+  - [Technologies](#Technologies)
 
 ## General info
 The financial and logistical impact of COVID mean there are fewer internships available this year, and some companies have even had to withdraw earlier offers. The impact of this “lost summer” will be significant: those missing out in 2020 will be at a serious disadvantage when they enter the market. The harm could last years, since their CVs will be weaker, their networks smaller, their skills less sharp.
@@ -31,6 +29,10 @@ This project is expected to take 4 week approx.
 -  A laptop or desktop computing machine with the following      software installed.
      - Git: download from [here]("https://git-scm.com/downloads") 
      - Integrated development Environment (IDE) **Liban**
+<<<<<<< HEAD
+=======
+     - **Liban**
+>>>>>>> b5ff66a... fixed conflictgit 
      
 - An account on Github.com sign up [here]("https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home")
 - A sense of humor and a willingness to learn, this will be educational and technically challenging but also fun :).
