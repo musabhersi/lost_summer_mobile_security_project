@@ -26,6 +26,8 @@ We will describe the project and the technologies we are going to use. We will t
 
 #### Monday - Thursday Tasks
 
+##### WATCH / LEARN
+
 - Github:https://www.youtube.com/watch?v=SWYqp7iY_Tc 
 - Github: https://rogerdudler.github.io/git-guide/ 
 - Github:https://www.freecodecamp.org/news/an-introduction-to-git-for-absolute-beginners-86fa1d32ff71/  
