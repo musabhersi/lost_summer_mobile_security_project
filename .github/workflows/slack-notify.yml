@@ -5,11 +5,9 @@ jobs:
     name: Slack Notification
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/workflow
+    - uses: actions/checkout@v2
     - name: Slack Notification
-      uses: workflow/action-slack-notify@master
+      uses: rtCamp/action-slack-notify@master
       env:
         SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
 	SLACK_TITLE: project6-devsecops
-	SLACK_USERNAME: musabhersi
-	SLACK_CHANNEL: SecurityTalentProject
